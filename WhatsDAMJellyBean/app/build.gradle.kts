@@ -7,9 +7,13 @@ android {
     namespace = "com.ieseljust.pmdm.whatsdamjellybean"
     compileSdk = 33
 
+    buildFeatures{
+        viewBinding= true
+    }
+
     defaultConfig {
         applicationId = "com.ieseljust.pmdm.whatsdamjellybean"
-        minSdk = 24
+        minSdk = 29
         targetSdk = 33
         versionCode = 1
         versionName = "1.0"
