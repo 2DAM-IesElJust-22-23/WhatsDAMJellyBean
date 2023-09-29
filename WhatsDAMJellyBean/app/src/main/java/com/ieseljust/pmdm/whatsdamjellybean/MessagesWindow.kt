@@ -14,6 +14,10 @@ class MessagesWindow : AppCompatActivity() {
         val view2=binding.root
         setContentView(view2)
 
+        /**
+         * Los intent del MainActivity los guardamos en unas variables
+         * Luego buscamos connectionInfoTextView y le decimos que cadena de texto queremos ahora
+         */
         val message = intent.getStringExtra("nick")
         val ipVal = intent.getStringExtra("ipOk")
         binding.connectionInfoTextView.text = "Connectat a "+ipVal+" com a "+ message

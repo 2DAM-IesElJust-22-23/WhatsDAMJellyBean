@@ -11,13 +11,18 @@ class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
     private lateinit var binding2: ActivityMessagesWindowBinding
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivityMainBinding.inflate(layoutInflater)
         val view = binding.root
         setContentView(view)
 
-
+        /**
+         * Guardamos el texto introducido en nickname y serverAddress
+         * Comprobamos si el nickname no es ""y que la IP sea valida
+         * Hacemos un intent para cada uno
+         */
         binding.buttonConnect.setOnClickListener {
             val intent = Intent(baseContext, MessagesWindow::class.java)
             var nick = binding.nickNameText.text.toString()
