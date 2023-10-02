@@ -22,5 +22,11 @@ class MessagesWindow : AppCompatActivity() {
         val ipVal = intent.getStringExtra("ipOk")
         binding.connectionInfoTextView.text = "Connectat a "+ipVal+" com a "+ message
 
+        binding.sendMessage.setOnClickListener{
+            binding.MessageText.text.clear()
+        }
+
+
+
     }
 }
