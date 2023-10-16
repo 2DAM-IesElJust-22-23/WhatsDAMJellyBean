@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Carles\\.gradle\\daemon\\8.0\\com.ieseljust.pmdm.whatsdamjellybean.app-mergeDebugResources-27:\\layout\\other_msg_viewholder.xml",
+        "source": "C:\\Users\\Carles\\.gradle\\daemon\\8.0\\com.ieseljust.pmdm.whatsdamjellybean.app-main-30:\\layout\\other_msg_viewholder.xml"
+    },
+    {
+        "merged": "com.ieseljust.pmdm.whatsdamjellybean.app-mergeDebugResources-27:/layout/activity_messages_window.xml",
+        "source": "com.ieseljust.pmdm.whatsdamjellybean.app-main-30:/layout/activity_messages_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carles\\.gradle\\daemon\\8.0\\com.ieseljust.pmdm.whatsdamjellybean.app-mergeDebugResources-27:\\layout\\my_msg_viewholder.xml",
+        "source": "C:\\Users\\Carles\\.gradle\\daemon\\8.0\\com.ieseljust.pmdm.whatsdamjellybean.app-main-30:\\layout\\my_msg_viewholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carles\\.gradle\\daemon\\8.0\\com.ieseljust.pmdm.whatsdamjellybean.app-mergeDebugResources-27:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Carles\\.gradle\\daemon\\8.0\\com.ieseljust.pmdm.whatsdamjellybean.app-main-30:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.ieseljust.pmdm.whatsdamjellybean.app-mergeDebugResources-27:/layout/other_msg_viewholder.xml",
+        "source": "com.ieseljust.pmdm.whatsdamjellybean.app-main-30:/layout/other_msg_viewholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carles\\.gradle\\daemon\\8.0\\com.ieseljust.pmdm.whatsdamjellybean.app-mergeDebugResources-27:\\layout\\activity_messages_window.xml",
+        "source": "C:\\Users\\Carles\\.gradle\\daemon\\8.0\\com.ieseljust.pmdm.whatsdamjellybean.app-main-30:\\layout\\activity_messages_window.xml"
+    },
+    {
+        "merged": "com.ieseljust.pmdm.whatsdamjellybean.app-mergeDebugResources-27:/layout/my_msg_viewholder.xml",
+        "source": "com.ieseljust.pmdm.whatsdamjellybean.app-main-30:/layout/my_msg_viewholder.xml"
+    }
+]
